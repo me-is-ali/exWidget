@@ -1,3 +1,6 @@
+# exWidget Privacy policy
+
+
 1. The user promises that it is a civil subject with full capacity for civil conduct, and has the ability to conclude transactions and perform its obligations.
 
 2. Users are obliged to provide their own real information when registering, and to ensure the validity and security of content such as mobile phone number, name, and location, and to ensure that "exwidget" staff can get in touch with users through the above contact methods. At the same time, the user is also obliged to update the relevant registration information in a timely manner when the relevant information actually changes.
